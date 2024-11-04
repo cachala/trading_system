@@ -9,15 +9,12 @@ A simple Django REST API for a trading system where a user can place orders and 
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository and go to the directory:
    ```bash
-   git clone https://github.com/cachala/trading-system.git
+   git clone https://github.com/cachala/trading_system.git
+   cd trading_system/trading_system
 
-2. Run migrations:
-   ```bash
-   python manage.py migrate
-
-3. Start the server:
+2. Start the server:
    ```bash
    python manage.py runserver
 

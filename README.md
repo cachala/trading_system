@@ -25,4 +25,4 @@ A simple Django REST API for a trading system where a user can place orders and 
 
 - /place-order/: Place an order
 - /total-value/: Retrieve total portfolio value
-- /<id>/: Get individual stock details
+- /id/: Get individual stock details
